@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     MANAGEMENT
                     </h4>
                   <p className="m-0 text-sm">
-                     Native web3 end to end project management connecting and organizing movement of talent and digital assets across teams. Managing complexity of the autonomous processes for everyone to focus on their tasks.
+                     Native web3 project management connecting and organizing movement of talent and digital assets across teams. Managing complexity of the autonomous processes for everyone to focus on their tasks.
                     </p>
                 </div>
               </div>
