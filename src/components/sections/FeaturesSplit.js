@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'Future Of Work',
-    paragraph: 'The focus of this DAO is on high end computer generated content though firmly believe variation of this protocol will be used for all services related work across the world.'
+    paragraph: 'when out of beta we firmly believe variation of this protocol will be used for most services related work across the world.'
   };
 
 
@@ -100,7 +100,7 @@ const FeaturesSplit = ({
                   Decentralised Finance
                   </h3>
                 <p className="m-0">
-                  Major issue in the service industry for both the clients and vendor is finance/ payment. We are developing a digital assets exchnage to make this part of the trade completely seamless, in fact we make this setup work better in providing long term value compared with any traditional routes.
+                  Major issue in the service industry for both the clients and vendor is finance/ payment. We are developing a digital assets exchnage trading within the ecosystem to make this part of the trade completely seamless, in fact we make this setup work better in providing long term value compared with any traditional routes.
                   </p>
               </div>
               <div className={

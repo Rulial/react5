@@ -65,7 +65,7 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                we design and tell stories from our imagination to your reality.
+                we design and tell stories from our imagination to your reality
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
@@ -86,18 +86,13 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/header.PNG')}
+                src={require('./../../assets/images/hex01.JPEG')}
                 alt="Hero"
                 width={896}
                 height={504} />
             </a>
           </div>
-          <Modal
-            id="video-modal"
-            show={videoModalActive}
-            handleClose={closeModal}
-            video=""
-            videoTag="iframe" />
+          
         </div>
       </div>
     </section>

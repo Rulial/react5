@@ -45,7 +45,7 @@ const Footer = ({
           </div>
           <div className="footer-bottom space-between text-xxs invert-order-desktop">
             <FooterNav />
-            <div className="footer-copyright">Path <a href="https://path-integral.com">Integral</a>. All right reserved</div>
+            <div className="footer-copyright">2022-23 Path <a href="https://path-integral.com">Integral</a>. All right reserved</div>
           </div>
         </div>
       </div>

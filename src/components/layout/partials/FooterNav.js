@@ -19,16 +19,16 @@ const FooterNav = ({
     >
       <ul className="list-reset">
         <li>
-          <Link to="#0">Github</Link>
+          <Link to="https://swumr.xyz">SWUMR</Link>
         </li>
         <li>
-          <Link to="#0">About us</Link>
+          <Link to="https://path-integral.com">About us</Link>
         </li>
         <li>
-          <Link to="#0">FAQ's</Link>
+          <Link to="https://path-integral.com">FAQ's</Link>
         </li>
         <li>
-          <Link to="#0">Support</Link>
+          <Link to="https://path-integral.com">Sales</Link>
         </li>
       </ul>
     </nav>
