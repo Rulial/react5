@@ -50,9 +50,10 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Future Of Work',
+    paragraph: 'The focus of this DAO is on high end computer generated content though firmly believe variation of this protocol will be used for all services related work across the world.'
   };
+
 
   return (
     <section
@@ -67,13 +68,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                 EVENT HORIZON
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Autonomous
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  The most important feature of this protocol is seamless, direct workflow between the client and pools of talent without a central party taking primary incentive. Accuring short and long term benefits for the community owned platform.
                   </p>
               </div>
               <div className={
@@ -83,7 +84,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src={require('./../../assets/images/features-split-image-01.PNG')}
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -93,13 +94,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  SWUMR
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Decentralised Finance
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Major issue in the service industry for both the clients and vendor is finance/ payment. We are developing a digital assets exchnage to make this part of the trade completely seamless, in fact we make this setup work better in providing long term value compared with any traditional routes.
                   </p>
               </div>
               <div className={
@@ -109,7 +110,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src={require('./../../assets/images/features-split-image-02.PNG')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -119,14 +120,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  METAGAME
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Learn to Earn
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
+                  A community takes care of everyone, especially the weakest, it accomodates, nurtures and helps them to become their best version. Being inclusive and unlocking true individual protential by providing equality of opportunity is the core mission of this protocol.                  </p>
               </div>
               <div className={
                 classNames(
@@ -135,7 +135,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src={require('./../../assets/images/features-split-image-03.PNG')}
                   alt="Features split 03"
                   width={528}
                   height={396} />

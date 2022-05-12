@@ -19,12 +19,12 @@ const Logo = ({
       className={classes}
     >
       <h1 className="m-0">
-        <Link to="/">
+        <Link to="https://path-integral.com">
           <Image
-            src={require('./../../../assets/images/logo.svg')}
+            src={require('./../../../assets/images/PI.png')}
             alt="Open"
-            width={32}
-            height={32} />
+            width={102}
+            height={102} />
         </Link>
       </h1>
     </div>
