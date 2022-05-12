@@ -71,10 +71,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    FULL CYCLE MANAGEMENT
+                    MANAGEMENT
                     </h4>
                   <p className="m-0 text-sm">
-                     A project management software to connect core elements like review, approval and payments to organize movement of talent and digital assets across different teams. Managing complexity of the underlying data and enabling autonomous processes for everyone to focus on their tasks.
+                     Native web3 end to end project management connecting and organizing movement of talent and digital assets across teams. Managing complexity of the autonomous processes for everyone to focus on their tasks.
                     </p>
                 </div>
               </div>
@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     ENGINE
                     </h4>
                   <p className="m-0 text-sm">
-                    A game that is playing itself. This is our Story or Metaverse engine for the next generation builders, devices and platforms. Pushing the limits of what is possible by understanding the core requirments of the medium and building to explore its true potential.
+                    A game that is playing itself. This is our Story or Metaverse engine for the next generation of builders, devices and platforms. Pushing the limits of what is possible at the core of the medium to explore its true potential.
                     </p>
                 </div>
               </div>
@@ -115,10 +115,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    BLABBER
+                    COMMUNICATION
                     </h4>
                   <p className="m-0 text-sm">
-                    Internal communication system integrated into the ecosystem from straightforward text conversations, group chat to video conferencing and screen sharing. Transparent but secure, we have it covered – applying the highest security standards in the industry.
+                    Integrated into Event Horizon from straightforward text conversations, group chat to video conferencing and screen sharing for reviews and approvals. Transparent + open but secure, applying the highest standards.
                     </p>
                 </div>
               </div>
@@ -137,10 +137,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    SWUMR
+                    INTERNAL DSE
                     </h4>
                   <p className="m-0 text-sm">
-                    We are not reinventing the wheel but putting rubber on it, a motor behind it and the ability to absorb pressure on difficult roads. Part of what makes us refreshing from traditional setups is our ability to provide long term financial value for everyone involved through this digital assets exchange.
+                    We are not reinventing the wheel but putting rubber on it, a motor behind it and the ability to absorb pressure on difficult roads. Part of what makes us refreshing is our ability to provide long term financial value for everyone within this ecosystem.
                     </p>
                 </div>
               </div>
