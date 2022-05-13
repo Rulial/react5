@@ -85,7 +85,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/MGP01.png')}
+                      src={require('./../../assets/images/MGP02.png')}
                       alt="Features tile icon 04"
                       width={64}
                       height={64} />
@@ -137,7 +137,7 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    INTERNAL DSE
+                    DEX
                     </h4>
                   <p className="m-0 text-sm">
                     We are not reinventing the wheel but putting rubber on it, a motor behind it and the ability to absorb pressure on difficult roads. Part of what makes us refreshing is our ability to provide long term financial value for everyone within this ecosystem.

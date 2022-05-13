@@ -100,7 +100,7 @@ const FeaturesSplit = ({
                   Decentralised Finance
                   </h3>
                 <p className="m-0">
-                  Major issue in the service industry for both the clients and vendor is finance/ payment. We are developing a digital assets exchnage trading within the ecosystem to make this part of the trade completely seamless, in fact we make this setup work better in providing long term value compared with any traditional routes.
+                  Major issue in the service industry for both the clients and vendor is finance/ payment. SWUMR is our decentralised trading protocol within the ecosystem to make this part of the relationship completely seamless, efficient and transparent compared to any traditional models.
                   </p>
               </div>
               <div className={

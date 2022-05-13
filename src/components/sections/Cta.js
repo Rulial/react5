@@ -62,7 +62,7 @@ const Cta = ({
               width="32"
               height="32"
               viewBox="0 0 16 16"
-              xmlns="http://www.w3.org/2000/svg">
+              xmlns="http://www.w3.org/2000/svg"> </svg>
             </Input>
           </div>
         </div>
