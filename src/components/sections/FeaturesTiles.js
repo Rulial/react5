@@ -117,7 +117,7 @@ const FeaturesTiles = ({
                     Current Project
                     </h4>
                   <p className="m-0 text-sm">
-                     we design and tell stories from our imagination to your reality
+                     
                     </p>
                 </div>
        </div>

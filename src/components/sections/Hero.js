@@ -65,15 +65,10 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                future of work
+                we design and tell stories from our imagination to your reality
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
-                <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://path-integral/">
-                    START
-                    </Button>
-
-                </ButtonGroup>
+              
               </div>
             </div>
           </div>

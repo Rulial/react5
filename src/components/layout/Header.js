@@ -3,6 +3,8 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import { Link } from 'react-router-dom';
 import Logo from './partials/Logo';
+import ButtonGroup from '../elements/ButtonGroup';
+import Button from '../elements/Button';
 
 const propTypes = {
   navPosition: PropTypes.string,
@@ -86,7 +88,12 @@ const Header = ({
             bottomDivider && 'has-bottom-divider'
           )}>
           <Logo />
-    
+     <ButtonGroup>
+                  <Button tag="a" color="primary" wideMobile href="https://path-integral/">
+                    START
+                    </Button>
+
+                </ButtonGroup>
         </div>
       </div>
     </header>

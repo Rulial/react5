@@ -74,7 +74,7 @@ const FeaturesSplit = ({
                   Autonomous
                   </h3>
                 <p className="m-0">
-                  The most important feature of this protocol is seamless, direct workflow between the client and pools of talent without a central party taking primary incentive. Accuring short and long term benefits for the community owned platform.
+                  The most important feature of this protocol is seamless, modular workflow between the client and pools of talent without a central party taking primary incentive. Accuring short and long term benefits for the community owned platform.
                   </p>
               </div>
               <div className={
@@ -100,7 +100,7 @@ const FeaturesSplit = ({
                   Decentralised Finance
                   </h3>
                 <p className="m-0">
-                  Major issue in the service industry for both the clients and vendor is finance/ payment. SWUMR is our decentralised trading protocol within the ecosystem to make this part of the relationship completely seamless, efficient and transparent compared to any traditional models.
+                  A Major issue in the service industry for both the clients and vendor is finance/ payment. SWUMR is our decentralised trading protocol within the ecosystem to make this part of the relationship completely seamless, efficient and transparent compared to any traditional models.
                   </p>
               </div>
               <div className={
