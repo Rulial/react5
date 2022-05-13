@@ -44,7 +44,7 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'CGI DAO',
+    title: 'STORY DAO',
     paragraph: 'Decentralising high end CGI/ VFX Production by introducing an autonomous and modular pipeline to unlock true potential for talent, managers and clients.'
   };
 
@@ -101,8 +101,27 @@ const FeaturesTiles = ({
                 </div>
               </div>
             </div>
-
-            
+ <div className="tiles-item reveal-from-bottom">
+     <div className="tiles-item-inner">
+                <div className="features-tiles-item-header">
+                  <div className="features-tiles-item-image mb-16">
+                    <Image
+                      src={require('./../../assets/images/hex01.JPEG')}
+                      alt="Features tile icon 01"
+                      width={264}
+                      height={164} />
+                  </div>
+              </div>
+            <div className="features-tiles-item-content">
+                  <h4 className="mt-0 mb-8">
+                    Current Project
+                    </h4>
+                  <p className="m-0 text-sm">
+                     we design and tell stories from our imagination to your reality
+                    </p>
+                </div>
+       </div>
+   </div>
 
           </div>
         </div>
