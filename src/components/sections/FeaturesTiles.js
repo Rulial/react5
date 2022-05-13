@@ -117,7 +117,7 @@ const FeaturesTiles = ({
                     Current Project
                     </h4>
                   <p className="m-0 text-sm">
-                     
+                     onboarding the best global talent
                     </p>
                 </div>
        </div>
