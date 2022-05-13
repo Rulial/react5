@@ -35,7 +35,7 @@ const Hero = ({
   const closeModal = (e) => {
     e.preventDefault();
     setVideomodalactive(false);
-  }   
+  }
 
   const outerClasses = classNames(
     'hero section center-content',
@@ -72,7 +72,7 @@ const Hero = ({
                   <Button tag="a" color="primary" wideMobile href="https://path-integral/">
                     START
                     </Button>
-                  
+
                 </ButtonGroup>
               </div>
             </div>
@@ -86,13 +86,13 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/hex01.JPEG')}
+                src={require('./../../assets/images/EHP05.png')}
                 alt="Hero"
                 width={896}
                 height={504} />
             </a>
           </div>
-          
+
         </div>
       </div>
     </section>

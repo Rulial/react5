@@ -53,18 +53,10 @@ const Cta = ({
         >
           <div className="cta-slogan">
             <h3 className="m-0">
-              For enqueries and more information hello@path-integral.com or
+              hello@path-integral.com
               </h3>
           </div>
-          <div className="cta-action">
-            <Input id="newsletter" type="email" label="Subscribe" labelHidden hasIcon="right" placeholder="Your best email">
-<svg
-              width="32"
-              height="32"
-              viewBox="0 0 16 16"
-              xmlns="http://www.w3.org/2000/svg"> </svg>
-            </Input>
-          </div>
+          
         </div>
       </div>
     </section>

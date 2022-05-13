@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'Future Of Work',
-    paragraph: 'when out of beta we firmly believe variation of this protocol will be used for most services related work across the world.'
+    paragraph: 'We are developing a modular and open source protocol that will be used for all services related work across the world.'
   };
 
 

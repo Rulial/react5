@@ -44,8 +44,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'THE DAO',
-    paragraph: 'we are decentralising high end creative production by introducing an autonomous pipeline to unlock true potential for talent, managers and clients.'
+    title: 'THE PI-01',
+    paragraph: 'This DAO is foucused on decentralising high end CGI/ VFX Production by introducing an autonomous pipeline to unlock true potential for talent, managers and clients.'
   };
 
   return (
