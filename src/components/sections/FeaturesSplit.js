@@ -50,7 +50,7 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'FUTURE OF WORK',
+    title: <span className="text-color-primary"> FUTURE OF WORK </span>,
     paragraph: 'We are developing a modular and decentralised protocol that will be used for all project based services across the world.'
   };
 
