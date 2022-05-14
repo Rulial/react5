@@ -21,10 +21,10 @@ const Logo = ({
       <h1 className="m-0">
         <Link to="https://path-integral.com">
           <Image
-            src={require('./../../../assets/images/PI.png')}
+            src={require('./../../../assets/images/PIL04.png')}
             alt="Open"
-            width={102}
-            height={102} />
+            width={94}
+            height={94} />
         </Link>
       </h1>
     </div>

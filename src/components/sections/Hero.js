@@ -57,21 +57,7 @@ const Hero = ({
       {...props}
       className={outerClasses}
     >
-      <div className="container-sm">
-        <div className={innerClasses}>
-          <div className="hero-content">
-            <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              PATH <span className="text-color-primary"> INTEGRAL </span>
-            </h1>
-            <div className="container-xs">
-              <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                we design and tell stories from our imagination to your reality
-                </p>
-              <div className="reveal-from-bottom" data-reveal-delay="600">
-              
-              </div>
-            </div>
-          </div>
+      
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
               data-video="https://"
@@ -81,15 +67,31 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/MGP03.png')}
+                src={require('./../../assets/images/hex01.JPEG')}
                 alt="Hero"
                 width={396}
                 height={104} />
             </a>
           </div>
 
-        </div>
-      </div>
+        <div className="container-sm">
+        <div className={innerClasses}>
+          <div className="hero-content">
+            <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
+            STORY <span className="text-color-primary"> DAO </span>
+            </h1>
+            <div className="container-xs">
+              <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400"> Decentralising high end CGI/ VFX Production by introducing an autonomous and modular pipeline to unlock true potential for talent, managers and clients.
+                
+                </p>
+              <div className="reveal-from-bottom" data-reveal-delay="600">
+              
+              </div>
+            </div>
+          </div>
+          </div>
+          </div>
+      
     </section>
   );
 }

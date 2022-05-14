@@ -44,10 +44,11 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'STORY DAO',
-    paragraph: 'Decentralising high end CGI/ VFX Production by introducing an autonomous and modular pipeline to unlock true potential for talent, managers and clients.'
+    
   };
 
+            
+          
   return (
     <section
       {...props}
@@ -85,7 +86,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/SWUMP01.png')}
+                      src={require('./../../assets/images/JTP01.png')}
                       alt="Features tile icon 01"
                       width={64}
                       height={64} />
@@ -93,10 +94,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    DEX
+                    REAL TIME
                     </h4>
                   <p className="m-0 text-sm">
-                    We are not reinventing the wheel but putting rubber on it, a motor behind it for the ability to absorb pressure on difficult roads. Our ability to provide long term financial value for everyone within the ecosystem makes us refreshing.
+                    Real time workflow is an essential part of our animation pipeline where by it not only enables better and secure collaboration between talent but also cost savings when juggling between narrative and interactive platforms.
                     </p>
                 </div>
               </div>
@@ -106,7 +107,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/hex01.JPEG')}
+                      src={require('./../../assets/images/MGP03.png')}
                       alt="Features tile icon 01"
                       width={264}
                       height={164} />
@@ -114,10 +115,10 @@ const FeaturesTiles = ({
               </div>
             <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Current Project
+                    
                     </h4>
                   <p className="m-0 text-sm">
-                     onboarding the best global talent
+                     
                     </p>
                 </div>
        </div>
