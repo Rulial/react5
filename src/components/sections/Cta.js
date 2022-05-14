@@ -52,10 +52,12 @@ const Cta = ({
           className={innerClasses}
         >
           <div className="cta-slogan">
-            <h3 className="m-0">
-              hello@path-integral.com
-              </h3>
-          </div>
+            <h5 classNam5="m-0">
+             onboarding the best global talent <span className="text-color-primary"> hello@path-integral.com </span>
+            </h5> 
+            </div>
+          
+          
           
         </div>
       </div>

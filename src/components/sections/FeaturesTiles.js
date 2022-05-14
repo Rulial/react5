@@ -66,16 +66,16 @@ const FeaturesTiles = ({
                     <Image
                       src={require('./../../assets/images/EHP01.png')}
                       alt="Features tile icon 03"
-                      width={64}
-                      height={64} />
+                      width={264}
+                      height={164} />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    MODULATION
+                    
                     </h4>
                   <p className="m-0 text-sm">
-                     An end to end project management + communation tool organizing movement of talent and digital assets across teams. Managing complexity of the secure autonomous processes for everyone to collaborate and focus on their tasks.
+                     A modular project management + communation tool organizing movement of talent and digital assets across teams. Managing complexity of the secure autonomous processes for everyone to collaborate and focus on their tasks.
                     </p>
                 </div>
               </div>
@@ -86,15 +86,15 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/JTP01.png')}
+                      src={require('./../../assets/images/MGP03.png')}
                       alt="Features tile icon 01"
-                      width={64}
-                      height={64} />
+                      width={264}
+                      height={164} />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    REAL TIME
+                    
                     </h4>
                   <p className="m-0 text-sm">
                     Real time workflow is an essential part of our animation pipeline where by it not only enables better and secure collaboration between talent but also cost savings when juggling between narrative and interactive platforms.
@@ -102,27 +102,7 @@ const FeaturesTiles = ({
                 </div>
               </div>
             </div>
- <div className="tiles-item reveal-from-bottom">
-     <div className="tiles-item-inner">
-                <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
-                    <Image
-                      src={require('./../../assets/images/MGP03.png')}
-                      alt="Features tile icon 01"
-                      width={264}
-                      height={164} />
-                  </div>
-              </div>
-            <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
-                    
-                    </h4>
-                  <p className="m-0 text-sm">
-                     
-                    </p>
-                </div>
-       </div>
-   </div>
+ 
 
           </div>
         </div>
