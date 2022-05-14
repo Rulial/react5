@@ -14,7 +14,7 @@ $palette: (
 	),
 	primary: (
 		1: #F25260, ///light red1
-		2: #78D492, ///light green
+		2: #06CC5B, /// green
 		3: #50F296, ///white grey
 		4: #1FA9FF ///dark blue
  	),
@@ -39,6 +39,7 @@ $color: (
 	mid-contrast: 			get-color(light, 3),
 	low-contrast: 			get-color(light, 3),
 	primary:				get-color(light, 1),
+  span:          get-color(primary, 1),
 	secondary:				get-color(secondary, 1),
 	error:					get-color(alert, error),
 	warning:				get-color(alert, warning),
