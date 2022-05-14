@@ -21,7 +21,7 @@ const Logo = ({
       <h1 className="m-0">
         <Link to="https://path-integral.com">
           <Image
-            src={require('./../../../assets/images/PIL04.png')}
+            src={require('./../../../assets/images/PIL05.png')}
             alt="Open"
             width={94}
             height={94} />
