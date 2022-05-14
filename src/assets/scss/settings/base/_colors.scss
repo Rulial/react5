@@ -39,7 +39,7 @@ $color: (
 	mid-contrast: 			get-color(light, 3),
 	low-contrast: 			get-color(light, 3),
 	primary:				get-color(light, 1),
-  span:          get-color(primary, 1),
+  span:          get-color(dark, 1),
 	secondary:				get-color(secondary, 1),
 	error:					get-color(alert, error),
 	warning:				get-color(alert, warning),
