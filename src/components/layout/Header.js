@@ -90,7 +90,7 @@ const Header = ({
           <Logo />
      <ButtonGroup>
                   <Button tag="a" color="primary" wideMobile href="https://app.path-integral.com/">
-                   START <span className="text-color-span"> >0 </span>
+                   START <span className="text-color-button"> >0 </span>
                     </Button>
 
                 </ButtonGroup>

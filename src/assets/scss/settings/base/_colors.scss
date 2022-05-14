@@ -16,7 +16,8 @@ $palette: (
 		1: #F25260, ///light red1
 		2: #06CC5B, /// green
 		3: #50F296, ///white grey
-		4: #1FA9FF ///dark blue
+		4: #1FA9FF, ///dark blue
+    5: #3997CC ///bright green
  	),
 	secondary: (
 		1: #24E5AF, ///bright green
@@ -39,7 +40,8 @@ $color: (
 	mid-contrast: 			get-color(light, 3),
 	low-contrast: 			get-color(light, 3),
 	primary:				get-color(light, 1),
-  span:          get-color(dark, 1),
+  button:          get-color(dark, 1),
+  metaverse:     get-color(primary, 5),
 	secondary:				get-color(secondary, 1),
 	error:					get-color(alert, error),
 	warning:				get-color(alert, warning),
