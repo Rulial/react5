@@ -97,7 +97,7 @@ const FeaturesTiles = ({
                     
                     </h4>
                   <p className="m-0 text-sm">
-                    Real time workflow is an essential part of our CGI pipeline where by it not only enables better and secure collaboration between talent but also cost savings when building simultaneously between narrative and interactive platforms.
+                    Real time workflow is an essential part of our CGI pipeline where by it not only enables efficiency between teams but also consistency of quality when building simultaneously for narrative and interactive platforms.
                     </p>
                 </div>
               </div>
