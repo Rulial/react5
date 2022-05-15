@@ -81,7 +81,7 @@ const Hero = ({
             STORY <span className="text-color-primary"> DAO </span>
             </h1>
             <div className="container-xs">
-              <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400"> Decentralising high end CGI/ VFX Production by introducing an autonomous and modular pipeline to unlock true potential for talent, managers and clients.
+              <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400"> Decentralising high end CGI, VFX, AR Production by introducing an autonomous and modular pipeline to unlock true potential for talent, managers and clients.
                 
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
