@@ -15,16 +15,15 @@
     "react-scripts": "^3.4.1",
     "sass": "^1.49.7"
   },
-    "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
-    }
+  
       
   "repository": {
     "type": "git",
     "url":  
   },
   "scripts": {
+     "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
