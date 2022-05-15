@@ -16,12 +16,21 @@
     "react-scripts": "^5.0.1",
     "sass": "^1.49.7"
   },
+  
+      
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": ""
   },
   "scripts": {
     "predeploy": "npm run build",
+=======
+    "url":  ""
+  },
+  "scripts": {
+     "predeploy": "npm run build",
+>>>>>>> origin/master
     "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
