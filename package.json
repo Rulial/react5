@@ -15,9 +15,14 @@
     "react-scripts": "^3.4.1",
     "sass": "^1.49.7"
   },
+    "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
+    }
+      
   "repository": {
     "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
+    "url":  
   },
   "scripts": {
     "start": "react-scripts start",
