@@ -126,7 +126,7 @@ const FeaturesSplit = ({
                   Learn to Earn
                   </h3>
                 <p className="m-0">
-                  A community takes care of everyone, especially the weakest, it accomodates, nurtures and helps them to become their best version. Being inclusive and unlocking true individual protential by providing equality of opportunity is the core mission of this protocol.                  </p>
+                 Being inclusive and unlocking true individual protential for talent to become their best version by providing equality of opportunity is the core mission of this protocol. We will be starting with the core skills development as per current projects and expanding with time.              </p>
               </div>
               <div className={
                 classNames(
