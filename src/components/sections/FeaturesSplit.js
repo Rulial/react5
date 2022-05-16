@@ -126,7 +126,7 @@ const FeaturesSplit = ({
                   Learn to Earn
                   </h3>
                 <p className="m-0">
-                 Being inclusive and unlocking true individual protential for talent to become their best version by providing equality of opportunity is the core mission of this protocol. We will be starting with the core skills development as per current projects and expanding with time.              </p>
+                 Being inclusive and unlocking true individual protential for talent to become their best version by providing equality of opportunity is the core mission of this protocol. This would be an opportunity for not only learn the skills for this DAO but to make a portfolio for opportunities anywhere.              </p>
               </div>
               <div className={
                 classNames(
@@ -141,31 +141,7 @@ const FeaturesSplit = ({
                   height={396} />
               </div>
             </div>
-            <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  WORKFLOW
-                  </div>
-                <h3 className="mt-0 mb-12">
-                  Building
-                  </h3>
-                <p className="m-0">
-                  The Protocol.
-                  </p>
-              </div>
-<div className={
-                classNames(
-                  'split-item-image center-content-mobile reveal-from-bottom',
-                  imageFill && 'split-item-image-fill'
-                )}
-                data-reveal-container=".split-item">
-                <Image
-                  src={require('./../../assets/images/PIWF01.png')}
-                  alt="Features split 02"
-                  width={528}
-                  height={396} />
-              </div>
-            </div>
+            
             
           </div>
         </div>
