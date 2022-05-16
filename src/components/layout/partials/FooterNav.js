@@ -25,10 +25,10 @@ const FooterNav = ({
           <Link to="http://blog.path-integral.com">BLOG</Link>
         </li>
         <li>
-          <Link to="https://path-integral.com">FAQ's</Link>
+          <Link to="https://app.path-integral.com">FAQ's</Link>
         </li>
         <li>
-          <Link to="https://path-integral.com">SALES</Link>
+          <Link to="https://app.path-integral.com">SALES</Link>
         </li>
       </ul>
     </nav>
