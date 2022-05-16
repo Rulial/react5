@@ -1,10 +1,18 @@
 {
   "files": {
+    ".replit": [
+      {
+        "id": "52c3ef42-9457-4f43-a620-44528770b859",
+        "line": 2,
+        "version": 2,
+        "index": 20
+      }
+    ],
     "src/components/layout/Footer.js": [
       {
         "id": "9487dc46-9141-4cca-a38e-648b9cc96d3c",
         "line": 12,
-        "version": 95,
+        "version": 96,
         "index": 321
       }
     ]
