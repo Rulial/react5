@@ -78,7 +78,7 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-            STORY <span className="text-color-primary"> DAO </span>
+            PATH <span className="text-color-primary"> INTEGRAL </span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400"> Decentralising high end CGI production by introducing an autonomous pipeline to unlock true potential for talent and clients.
