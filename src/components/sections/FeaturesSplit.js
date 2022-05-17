@@ -100,7 +100,7 @@ const FeaturesSplit = ({
                   Decentralised Finance
                   </h3>
                 <p className="m-0">
-                  A Major issue in the service industry for both the clients and vendor is finance/ payment. We are not reinventing the wheel but putting rubber on it, a motor behind it, SWUMR is a decentralised trading protocol within the ecosystem to make this part of the relationship completely seamless, efficient and transparent compared to any traditional models.
+                  A Major issue in the service industry for both the clients and vendor is finance/ payment. We are not reinventing the wheel but putting rubber on it, a motor behind it. SWUMR is a decentralised trading protocol within the ecosystem to make this part of the relationship completely seamless, efficient and transparent.
                   </p>
               </div>
               <div className={
@@ -126,7 +126,7 @@ const FeaturesSplit = ({
                   Learn to Earn
                   </h3>
                 <p className="m-0">
-                 Being inclusive and unlocking true individual protential for talent to become their best version by providing equality of opportunity is the core mission of this protocol. This would be an opportunity for not only learn the skills for this DAO but to make a portfolio for opportunities anywhere.              </p>
+                 Being inclusive and unlocking true individual protential for talent to become their best version by providing equality of opportunity is the core mission of this protocol.             </p>
               </div>
               <div className={
                 classNames(
