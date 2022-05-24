@@ -54,7 +54,7 @@ const Cta = ({
           <div className="cta-slogan">
             
             <h5 classNam5="m-0"> 
-             <span className="text-color-metaverse"> metaverse is a story, we design and tell stories... </span> onboarding the best global talent <span className="text-color-primary"> hello@path-integral.com </span>
+             <span className="text-color-metaverse"> metaverse is a story, we design and tell stories... </span> <span className="text-color-primary"> hello@path-integral.com </span>
             </h5> 
            
             </div>
