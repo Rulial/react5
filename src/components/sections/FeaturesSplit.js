@@ -100,7 +100,7 @@ const FeaturesSplit = ({
                   Decentralised Finance
                   </h3>
                 <p className="m-0">
-                  A Major issue in the service industry for both the clients and vendor is finance/ payment. We are not reinventing the wheel but putting rubber on it, a motor behind it. SWUMR is a decentralised trading protocol within the ecosystem to make this part of the relationship completely seamless, efficient and transparent.
+                  A major issue in the service industry for both the clients and vendor is finance/ payment. We are not reinventing the wheel but putting rubber on it, a motor behind it. SWUMR is a decentralised trading protocol within the ecosystem to make this part of the relationship completely seamless, efficient and transparent.
                   </p>
               </div>
               <div className={
