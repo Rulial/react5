@@ -9,7 +9,7 @@ const propTypes = {
 }
 
 const defaultProps = {
-  ...SectionSplitProps.defaults
+  ...SectionSplitProps.defaults 
 }
 
 const FeaturesSplit = ({
