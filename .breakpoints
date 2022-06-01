@@ -1,5 +1,13 @@
 {
   "files": {
+    "public/CNAME": [
+      {
+        "id": "543f415f-973b-43c1-869a-38f96a5184ca",
+        "line": 2,
+        "version": 4,
+        "index": 18
+      }
+    ],
     "src/components/layout/Footer.js": [
       {
         "id": "9487dc46-9141-4cca-a38e-648b9cc96d3c",
