@@ -28,7 +28,7 @@ const FooterNav = ({
           <Link to="https://services.path-integral.com">FAQ's</Link>
         </li>
         <li>
-          <Link to="https://app.path-integral.com">SERVICES</Link>
+          <Link to="https://app.path-integral.com">ROADMAP</Link>
         </li>
       </ul>
     </nav>
