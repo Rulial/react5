@@ -10,7 +10,7 @@ import LayoutDefault from './layouts/LayoutDefault';
 // Views 
 import Home from './views/Home';
 
-// Initialize Google Analytics
+// Initialize Google
 ReactGA.initialize(process.env.REACT_APP_GA_CODE);
 
 const trackPage = page => {
