@@ -16,7 +16,7 @@ $button--color: (
 
 // Buttons: background color
 $button--bg: (
-	button-light: 			get-color(light, 1),
+	button-light: 			get-color(light, 3),
 	button-light-hover: 	darken(get-color(light, 1), 5%),
 	button-dark: 			get-color(dark, 2),
 	button-dark-hover: 		lighten(get-color(dark, 2), 2%),
