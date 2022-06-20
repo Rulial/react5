@@ -3,7 +3,7 @@
 // The color palette
 $palette: (
 	light: (
-		1: #8FCED6, ///light blue
+		1: #B9F2FF, ///light blue
 		2: #ECECE7, ///white grey
 		3: #BFFF80 //project green
 	),
@@ -41,7 +41,7 @@ $color: (
 	low-contrast: 			get-color(light, 3),
 	primary:				get-color(light, 1),
   button:          get-color(light, 3),
-  metaverse:     get-color(light, 3),
+  metaverse:     get-color(light, 1),
 	secondary:				get-color(secondary, 1),
 	error:					get-color(alert, error),
 	warning:				get-color(alert, warning),
