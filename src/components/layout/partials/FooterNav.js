@@ -25,7 +25,7 @@ const FooterNav = ({
           <Link to="http://pathintegral.substack.com">BLOG</Link>
         </li>
         <li>
-          <Link to="https://research.typeform.com/to/GZ0rj0Lo">CONNECT</Link>
+          <Link to="https://app.path-integral.com">ECOSYSTEM</Link>
         </li>
         <li>
           <Link to="https://docs.path-integral.com">DOCS</Link>

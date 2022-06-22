@@ -89,7 +89,7 @@ const Header = ({
           )}>
           <Logo />
      <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://app.path-integral.com/">
+                  <Button tag="a" color="primary" wideMobile href="https://research.typeform.com/to/GZ0rj0Lo">
                    START<span className="text-color-button"> </span>
                     </Button>
 
