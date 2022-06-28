@@ -67,10 +67,10 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/hex01.JPEG')}
+                src={require('./../../assets/images/FCB02.png')}
                 alt="Hero"
-                width={396}
-                height={104} />
+                width={600}
+                height={338} />
             </a>
           </div>
 
