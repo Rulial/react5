@@ -19,7 +19,7 @@ const FooterNav = ({
     >
       <ul className="list-reset">
         <li>
-          <Link to="https://swumr.xyz">SWUMR</Link>
+          <Link to="https://swumr.xyz">SUMMER</Link>
         </li>
         <li>
           <Link to="http://pathintegral.substack.com">BLOG</Link>
