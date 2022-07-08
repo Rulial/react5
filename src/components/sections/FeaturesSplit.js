@@ -100,7 +100,7 @@ const FeaturesSplit = ({
                   Decentralised Finance
                   </h3>
                 <p className="m-0">
-                  A major issue in the service industry for both the clients and vendor is finance/ payment. We are not reinventing the wheel but putting rubber on it, a motor behind it. Summer is a DEX specific to the ecosystem to make this part of the relationship completely seamless, value based and transparent.
+                  We are not reinventing the wheel but putting rubber on it and a motor behind it. Summer is a DEX designed specificly for the ecosystem to make this part of the relationship between clients and talent value based, seamless, and transparent.
                   </p>
               </div>
               <div className={
