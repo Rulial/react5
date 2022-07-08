@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: <span className="text-color-primary"> FUTURE OF WORK </span>,
-    paragraph: 'We are developing a modular ecosystem based on an decentralised protocol for project based services.'
+    paragraph: 'We are developing a modular ecosystem based on a decentralised protocol for project-based services.'
   };
 
 
