@@ -126,7 +126,7 @@ const FeaturesSplit = ({
                   Plug and Play
                   </h3>
                 <p className="m-0">
-                 A realtime second brain from the moment you start is the best way to be inclusive and extend the euqlity of opportunity in every domain.             </p>
+                 A realtime second brain from the moment you start is the best way to be inclusive and extend the equality of opportunity in every domain.             </p>
               </div>
               <div className={
                 classNames(
