@@ -123,10 +123,10 @@ const FeaturesSplit = ({
                   METAGAME
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Learn to Earn
+                  Plug and Play
                   </h3>
                 <p className="m-0">
-                 Being inclusive and unlocking true individual protential for talent to become their best version by providing equality of opportunity is the core mission of this protocol.             </p>
+                 A realtime second brain from the moment you start is the best way to be inclusive and extend the euqlity of opportunity in every domain.             </p>
               </div>
               <div className={
                 classNames(
