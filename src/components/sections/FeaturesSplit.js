@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: <span className="text-color-primary"> FUTURE OF WORK </span>,
-    paragraph: 'We are developing a modular and decentralised protocol that can be used for all project based services.'
+    paragraph: 'We are developing a modular ecosystem based on a decentralised protocol for project-based services.'
   };
 
 
@@ -100,7 +100,7 @@ const FeaturesSplit = ({
                   Decentralised Finance
                   </h3>
                 <p className="m-0">
-                  A major issue in the service industry for both the clients and vendor is finance/ payment. We are not reinventing the wheel but putting rubber on it, a motor behind it. SWUMR is a decentralised trading protocol within the ecosystem to make this part of the relationship completely seamless, efficient and transparent.
+                  We are not reinventing the wheel but putting rubber on it and a motor behind it. Summer is a DEX designed specificly for the ecosystem to bring value, seamlessness and transparency into the relationship between clients and talent.
                   </p>
               </div>
               <div className={
@@ -123,10 +123,10 @@ const FeaturesSplit = ({
                   METAGAME
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Learn to Earn
+                  Plug and Play
                   </h3>
                 <p className="m-0">
-                 Being inclusive and unlocking true individual protential for talent to become their best version by providing equality of opportunity is the core mission of this protocol.             </p>
+                 A realtime second brain from the moment you start is the best way to be inclusive and extend the equality of opportunity in every domain.             </p>
               </div>
               <div className={
                 classNames(

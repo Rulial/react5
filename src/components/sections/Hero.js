@@ -81,7 +81,7 @@ const Hero = ({
             PATH <span className="text-color-primary"> INTEGRAL </span>
             </h1>
             <div className="container-xs">
-              <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400"> Decentralising high end CGI + VFX production by introducing an autonomous pipeline to unlock true potential for talent and clients.
+              <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400"> Decentralising high end content production by introducing an autonomous plug and play pipeline
                 
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
