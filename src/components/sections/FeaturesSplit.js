@@ -100,7 +100,7 @@ const FeaturesSplit = ({
                   Decentralised Finance
                   </h3>
                 <p className="m-0">
-                  We are not reinventing the wheel but putting rubber on it and a motor behind it. Summer is a DEX designed specificly for the ecosystem to bring value, seamlessness and transparency into the relationship between clients and talent.
+                  We are not reinventing the wheel but putting rubber on it and a motor behind it. Summer is a DEX designed specificly for the ecosystem to bring value, seamlessness and transparency to the commercial relationships.
                   </p>
               </div>
               <div className={
@@ -126,7 +126,7 @@ const FeaturesSplit = ({
                   Plug and Play
                   </h3>
                 <p className="m-0">
-                 A realtime second brain from the moment you start is the best way to be inclusive and extend the equality of opportunity in every domain.             </p>
+                 A realtime second brain from the moment a user press start is the best way to be inclusive and extend the equality of opportunity in every domain.             </p>
               </div>
               <div className={
                 classNames(
