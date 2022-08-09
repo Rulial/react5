@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: <span className="text-color-primary"> FUTURE OF WORK </span>,
-    paragraph: Decentralising high end content production by introducing an autonomous plug and play pipeline
+    paragraph: 'Decentralising high end content production by introducing an autonomous plug and play pipeline'
   };
 
 
