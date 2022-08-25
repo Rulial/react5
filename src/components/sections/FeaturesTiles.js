@@ -86,7 +86,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/mgd02.png')}
+                      src={require('./../../assets/images/Mgd02.png')}
                       alt="Features tile icon 01"
                       width={264}
                       height={164} />
