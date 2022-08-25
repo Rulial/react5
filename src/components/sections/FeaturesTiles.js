@@ -75,7 +75,7 @@ const FeaturesTiles = ({
                     
                     </h4>
                   <p className="m-0 text-sm">
-                     A modular project management + communation tool organizing movement of talent and digital assets across teams. Managing complexity of the secure autonomous processes for everyone to collaborate and focus on their tasks.
+                     A modular project management tool organizing movement of talent and digital assets across teams in realtime. Managing complexity of the secure autonomous processes for everyone to collaborate and focus on their tasks.
                     </p>
                 </div>
               </div>
@@ -97,7 +97,7 @@ const FeaturesTiles = ({
                     
                     </h4>
                   <p className="m-0 text-sm">
-                    Real time workflow is an essential part of our pipeline to save costs without compromising on aesthetics. It enables efficiency between teams but also consistency of quality when building simultaneously for narrative and interactive platforms.
+                    Real time workflow is a core part of our pipeline to save costs without compromising on aesthetics. Enabling efficiency between teams but also consistency of quality when building simultaneously in narrative and interactive mediums.
                     </p>
                 </div>
               </div>
