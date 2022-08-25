@@ -67,7 +67,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/VFX_MJ_01.png')}
+                src={require('./../../assets/images/Pib01.png')}
                 alt="Generated with MidJourney"
                 width={1080}
                 height={566} />
