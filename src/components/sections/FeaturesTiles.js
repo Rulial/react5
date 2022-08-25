@@ -97,7 +97,7 @@ const FeaturesTiles = ({
                     
                     </h4>
                   <p className="m-0 text-sm">
-                    Real time workflow is a core part of our pipeline to save costs without compromising on aesthetics. Enabling efficiency between teams but also consistency of quality when building simultaneously in narrative and interactive mediums.
+                    Real time workflow is a core part of our pipeline. Enabling efficiency between teams but also consistency of quality when building simultaneously in narrative and interactive mediums.
                     </p>
                 </div>
               </div>
