@@ -64,7 +64,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/EHL07.png')}
+                      src={require('./../../assets/images/Mgd01.png')}
                       alt="Features tile icon 03"
                       width={264}
                       height={164} />
@@ -75,7 +75,7 @@ const FeaturesTiles = ({
                     
                     </h4>
                   <p className="m-0 text-sm">
-                     A modular project management tool organizing movement of talent and digital assets across teams in realtime. Managing complexity of the secure autonomous processes for everyone to collaborate and focus on their tasks.
+                     0
                     </p>
                 </div>
               </div>
@@ -86,7 +86,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={require('./../../assets/images/MGP03.png')}
+                      src={require('./../../assets/images/mgd02.png')}
                       alt="Features tile icon 01"
                       width={264}
                       height={164} />
@@ -97,8 +97,7 @@ const FeaturesTiles = ({
                     
                     </h4>
                   <p className="m-0 text-sm">
-                    Real time workflow is a core part of our pipeline. Enabling efficiency between teams but also consistency of quality when building simultaneously in narrative and interactive mediums.
-                    </p>
+                    0                    </p>
                 </div>
               </div>
             </div>

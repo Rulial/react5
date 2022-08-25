@@ -74,7 +74,7 @@ const FeaturesSplit = ({
                   Autonomous
                   </h3>
                 <p className="m-0">
-                  The most important feature of this protocol is seamless, modular workflow between the client and pools of talent without a central party taking primary incentive. Accuring short and long term benefits for the community owned platform.
+                  A modular project management tool organizing movement of talent and digital assets across teams in realtime. Managing complexity of the secure autonomous processes for everyone to collaborate and focus on their tasks.
                   </p>
               </div>
               <div className={
@@ -126,7 +126,7 @@ const FeaturesSplit = ({
                   Plug and Play
                   </h3>
                 <p className="m-0">
-                 A realtime second brain from the moment a user press start is the best way to be inclusive and extend the equality of opportunity in every domain.             </p>
+                 Real time workflow is a core part of our pipeline. Enabling efficiency between teams but also consistency of quality when building simultaneously in narrative and interactive mediums.             </p>
               </div>
               <div className={
                 classNames(
