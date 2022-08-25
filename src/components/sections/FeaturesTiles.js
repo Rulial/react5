@@ -75,7 +75,7 @@ const FeaturesTiles = ({
                     
                     </h4>
                   <p className="m-0 text-sm">
-                     0x1
+                     0x0
                     </p>
                 </div>
               </div>
@@ -97,7 +97,7 @@ const FeaturesTiles = ({
                     
                     </h4>
                   <p className="m-0 text-sm">
-                    0x1                    </p>
+                    0x0                    </p>
                 </div>
               </div>
             </div>
