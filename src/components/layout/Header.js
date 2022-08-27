@@ -89,7 +89,7 @@ const Header = ({
           )}>
           <Logo />
      <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://research.typeform.com/to/GZ0rj0Lo">
+                  <Button tag="a" color="primary" wideMobile href="https://pathintegral0.notion.site/METAGAME-OF-THE-METAVERSE-a239eceb78ff4411a084cb9d547fa29e">
                    START<span className="text-color-button"> </span>
                     </Button>
 
