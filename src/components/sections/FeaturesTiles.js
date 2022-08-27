@@ -102,6 +102,95 @@ const FeaturesTiles = ({
               </div>
             </div>
  
+          <div className="tiled-item reveal-from-bottom">
+            <div className="tiles-item-inner">
+              <div className="features-tiles-item-header">
+                <div className="features-tiles-item-image mb-16">
+                  <Image
+                  src={require('./../../assets/images/Mgd_01.png')}
+                  alt="Metagame"
+                  width={264}
+                  height={164} />
+                </div>
+              </div>
+              <div classname="features-tiles-item-content">
+                <h4 className="mt-0 mb-8">
+
+                </h4>
+                <p classname="m-0 test-sm">
+                  
+                </p>
+              </div>
+            </div>
+            </div> 
+
+            <div className="tiled-item reveal-from-bottom">
+            <div className="tiles-item-inner">
+              <div className="features-tiles-item-header">
+                <div className="features-tiles-item-image mb-16">
+                  <Image
+                  src={require('./../../assets/images/Mgd_02.png')}
+                  alt="Metagame"
+                  width={264}
+                  height={164} />
+                </div>
+              </div>
+              <div classname="features-tiles-item-content">
+                <h4 className="mt-0 mb-8">
+
+                </h4>
+                <p classname="m-0 test-sm">
+                  
+                </p>
+              </div>
+            </div>
+            </div> 
+
+
+            <div className="tiled-item reveal-from-bottom">
+            <div className="tiles-item-inner">
+              <div className="features-tiles-item-header">
+                <div className="features-tiles-item-image mb-16">
+                  <Image
+                  src={require('./../../assets/images/Mgd_03.png')}
+                  alt="Metagame"
+                  width={264}
+                  height={164} />
+                </div>
+              </div>
+              <div classname="features-tiles-item-content">
+                <h4 className="mt-0 mb-8">
+
+                </h4>
+                <p classname="m-0 test-sm">
+                  
+                </p>
+              </div>
+            </div>
+            </div> 
+
+            <div className="tiled-item reveal-from-bottom">
+            <div className="tiles-item-inner">
+              <div className="features-tiles-item-header">
+                <div className="features-tiles-item-image mb-16">
+                  <Image
+                  src={require('./../../assets/images/Mgd_04.png')}
+                  alt="Metagame"
+                  width={264}
+                  height={164} />
+                </div>
+              </div>
+              <div classname="features-tiles-item-content">
+                <h4 className="mt-0 mb-8">
+
+                </h4>
+                <p classname="m-0 test-sm">
+                  
+                </p>
+              </div>
+            </div>
+            </div> 
+
 
           </div>
         </div>
