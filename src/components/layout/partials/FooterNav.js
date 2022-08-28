@@ -22,13 +22,13 @@ const FooterNav = ({
           <Link to="https://swumr.xyz">SUMMER</Link>
         </li>
         <li>
-          <Link to="http://pathintegral.substack.com">BLOG</Link>
+          <Link to="https://docs.path-integral.com">DOCS</Link>
         </li>
         <li>
           <Link to="https://app.path-integral.com">ECOSYSTEM</Link>
         </li>
         <li>
-          <Link to="https://docs.path-integral.com">DOCS</Link>
+          <Link to="https://pathintegral.substack.com">BLOG</Link>
         </li>
       </ul>
     </nav>
