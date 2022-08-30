@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: <span className="text-color-primary"> FUTURE OF WORK </span>,
-    paragraph: 'Decentralised pipeline plugging right into The Metagame'
+    paragraph: 'Decentralised ecosystem plugging right into The Metagame'
   };
 
 
@@ -74,7 +74,7 @@ const FeaturesSplit = ({
                   Autonomous
                   </h3>
                 <p className="m-0">
-                  A modular project management tool organizing movement of talent and digital assets across teams in realtime. Managing complexity of the secure autonomous processes for everyone to collaborate and focus on their tasks.
+                  A modular project management pipeline organizing movement of talent and digital assets across teams in realtime. Managing complexity of the secure autonomous processes for everyone to collaborate and focus on their tasks.
                   </p>
               </div>
               <div className={
