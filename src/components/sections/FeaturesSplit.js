@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: <span className="text-color-primary"> FUTURE OF WORK </span>,
-    paragraph: 'Decentralised ecosystem plugging right into The Metagame'
+    paragraph: 'Decentralised ecosystem plugged right into The Metagame'
   };
 
 
