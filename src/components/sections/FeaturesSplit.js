@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: <span className="text-color-primary"> FUTURE OF WORK </span>,
-    paragraph: 'Decentralising high end content production by introducing an autonomous plug and play pipeline'
+    paragraph: 'Decentralised pipeline that plugs right into Metagame'
   };
 
 
@@ -126,7 +126,7 @@ const FeaturesSplit = ({
                   Plug and Play
                   </h3>
                 <p className="m-0">
-                 Real time workflow is a core part of our pipeline. Enabling efficiency between teams but also consistency of quality when building simultaneously in narrative and interactive mediums.             </p>
+                 Real time workflow is a core nature of our framework. Enabling efficiency between teams but also consistency of quality when building simultaneously in multiple mediums.             </p>
               </div>
               <div className={
                 classNames(
