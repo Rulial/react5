@@ -81,11 +81,11 @@ const Hero = ({
             PATH <span className="text-color-primary"> INTEGRAL </span>
             </h1>
             <div className="container-xs">
-              <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400"> Building Metagame For The Metaverse
+              <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400"> Building The Metagame For The Metaverse
                 
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
-              
+            
               </div>
             </div>
           </div>
