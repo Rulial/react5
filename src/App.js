@@ -3,15 +3,9 @@ import { useLocation, Switch } from 'react-router-dom';
 import AppRoute from './utils/AppRoute';
 import ScrollReveal from './utils/ScrollReveal';
 import ReactGA from 'react-ga';
+import { inject, observer } from 'mobx-react';
+import { observe } from 'mobx';
 
-
-useEffect(() => {    
-  window.onpageshow = function(event) {
-    if (event.persisted) {
-      window.location.reload();
-    }
-  };
-}, []);
 
 // Layouts
 import LayoutDefault from './layouts/LayoutDefault';
@@ -26,6 +20,23 @@ const trackPage = page => {
   ReactGA.set({ page });
   ReactGA.pageview(page);
 };
+
+@inject('routerStore')
+@observer
+class PackageSummary extends React.Component {
+  listener = null;
+  componentDidMount() {
+    this.listener = observe(this.props.routerStore, 'location', ({ oldValue, newValue }) => {
+      if (!oldValue || oldValue.pathname !== newValue.pathname) {
+        // your logic
+      }
+    }, true)
+  }
+
+  componentWillUnmount() {
+    this.listener();
+  }
+}
 
 const App = () => {
 
