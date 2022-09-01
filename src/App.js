@@ -4,6 +4,15 @@ import AppRoute from './utils/AppRoute';
 import ScrollReveal from './utils/ScrollReveal';
 import ReactGA from 'react-ga';
 
+
+useEffect(() => {    
+  window.onpageshow = function(event) {
+    if (event.persisted) {
+      window.location.reload();
+    }
+  };
+}, []);
+
 // Layouts
 import LayoutDefault from './layouts/LayoutDefault';
 
