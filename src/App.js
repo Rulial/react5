@@ -3,6 +3,7 @@ import { useLocation, Switch } from 'react-router-dom';
 import AppRoute from './utils/AppRoute';
 import ScrollReveal from './utils/ScrollReveal';
 import ReactGA from 'react-ga';
+import { createBrowserHistory } from "react-router-dom";
 
 // Layouts
 import LayoutDefault from './layouts/LayoutDefault';
@@ -19,6 +20,9 @@ const trackPage = page => {
 };
 */
 
+//history
+const history = useHistory();
+<div onClick={ ()=>history.goBack() }>Back </div>
 /*
 const App = () => {
 

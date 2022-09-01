@@ -5,7 +5,7 @@ import { useHistory } from "react-router-dom";
 import { createBrowserHistory } from "react-router-dom";
 
 import App from './App';
-import * as serviceWorker from './serviceWorker';
+//import * as serviceWorker from './serviceWorker';
 
 //import './App.css';
 import './assets/scss/style.scss';
