@@ -12,18 +12,18 @@ import LayoutDefault from './layouts/LayoutDefault';
 import Home from './views/Home';
 
 // Initialize Google
-/*ReactGA.initialize(process.env.REACT_APP_GA_CODE);
+ReactGA.initialize(process.env.REACT_APP_GA_CODE);
 
 const trackPage = page => {
   ReactGA.set({ page });
   ReactGA.pageview(page);
 };
-*/
+
 
 //history
 const history = useHistory();
 <div onClick={ ()=>history.goBack() }>Back </div>
-/*
+
 const App = () => {
 
   const childRef = useRef();
@@ -47,5 +47,5 @@ const App = () => {
       )} />
   );
 }
-*/
+
 export default App;
