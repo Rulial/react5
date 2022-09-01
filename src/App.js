@@ -11,13 +11,13 @@ import LayoutDefault from './layouts/LayoutDefault';
 import Home from './views/Home';
 
 // Initialize Google
-ReactGA.initialize(process.env.REACT_APP_GA_CODE);
+/*ReactGA.initialize(process.env.REACT_APP_GA_CODE);
 
 const trackPage = page => {
   ReactGA.set({ page });
   ReactGA.pageview(page);
 };
-
+*/
 
 
 const App = () => {
@@ -38,7 +38,7 @@ const App = () => {
       ref={childRef}
       children={() => (
         <Switch>
-          <AppRoute exact path="/" component={Home} layout={LayoutDefault} />
+          <AppRoute path="/" component={Home} layout={LayoutDefault} />
         </Switch>
       )} />
   );
