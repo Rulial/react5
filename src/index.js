@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { Router } from "react-router-dom";
 import { useHistory } from "react-router-dom";
-import { createBrowserHistory } from "react-router-dom";
+import { createMemoryHistory } from "react-router-dom";
 
 import App from './App';
 //import * as serviceWorker from './serviceWorker';
@@ -13,7 +13,7 @@ import './assets/scss/style.scss';
 const history = useHistory();
 <div onClick={ ()=>history.goBack() }>Back </div>
 
-const history = createBrowserHistory();
+const history = createMemoryHistory();
 
 ReactDOM.render(
   <Router history={history}>
