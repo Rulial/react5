@@ -3,6 +3,22 @@ import React, { useRef, useEffect } from 'react';
 import AppRoute from './utils/AppRoute';
 import ScrollReveal from './utils/ScrollReveal';
 import ReactGA from 'react-ga';
+import { createMemoryHistory } from 'history'
+
+const history = createMemoryHistory();
+
+it('renders without crashing', () => {
+  const div = document.createElement('div');
+  ReactDOM.render(
+    <Router history={history}>
+      <App />
+    </Router>,
+    div
+  );
+  ReactDOM.unmountComponentAtNode(div);
+});
+
+
 
 // Layouts
 import LayoutDefault from './layouts/LayoutDefault';
