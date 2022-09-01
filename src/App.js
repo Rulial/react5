@@ -1,7 +1,7 @@
 import React, { useRef } from 'react';
-import { useLocation, Switch } from 'react-router-dom';
-import AppRoute from './utils/AppRoute';
-import ScrollReveal from './utils/ScrollReveal';
+//import { useLocation, Switch } from 'react-router-dom';
+//import AppRoute from './utils/AppRoute';
+//import ScrollReveal from './utils/ScrollReveal';
 import ReactGA from 'react-ga';
 
 // Layouts
