@@ -1,24 +1,8 @@
 import React, { useRef, useEffect } from 'react';
-import { useLocation, Switch } from 'react-router-dom';
+//import { useLocation, Switch } from 'react-router-dom';
 import AppRoute from './utils/AppRoute';
-//import ScrollReveal from './utils/ScrollReveal';
+import ScrollReveal from './utils/ScrollReveal';
 import ReactGA from 'react-ga';
-import { createMemoryHistory } from 'history'
-
-const history = createMemoryHistory();
-
-it('renders without crashing', () => {
-  const div = document.createElement('div');
-  ReactDOM.render(
-    <Router history={history}>
-      
-    </Router>,
-    div
-  );
-  ReactDOM.unmountComponentAtNode(div);
-});
-
-
 
 // Layouts
 import LayoutDefault from './layouts/LayoutDefault';
@@ -35,7 +19,7 @@ const trackPage = page => {
 };
 
 
-/*
+
 const App = () => {
 
   const childRef = useRef();
@@ -58,6 +42,6 @@ const App = () => {
         </Switch>
       )} />
   );
-} */
+}
 
 export default App;
