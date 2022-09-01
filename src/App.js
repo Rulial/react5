@@ -19,12 +19,12 @@ const trackPage = page => {
 };
 */
 
-
+/*
 const App = () => {
 
   const childRef = useRef();
   let location = useLocation();
-/*
+
   useEffect(() => {
     const page = location.pathname;
     document.body.classList.add('is-loaded')
