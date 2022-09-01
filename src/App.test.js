@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Router } from 'react-router-dom';
-import { createMemoryHistory } from 'history'
+import { createBrowserHistory } from 'history'
 import App from './App';
 
-const history = createMemoryHistory();
+const history = createBrowserHistory();
 
 it('renders without crashing', () => {
   const div = document.createElement('div');
